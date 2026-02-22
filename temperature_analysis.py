@@ -1,3 +1,6 @@
+# Name: Pushparaj
+# Roll Number: IITP_AIMTN_2602727
+# Assignment: Python Loops & Automation - Subjective Question
 print("===== Task 1: Find Maximum and Minimum =====")
 temperatures = [28, 32, 35, 29, 31, 27, 30]
 minimum = temperatures[0]
